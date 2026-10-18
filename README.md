@@ -1,4 +1,4 @@
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC) ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00)
+<img src="https://img.shields.io/badge/C-111111?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" alt="C" height="36"> <img src="https://img.shields.io/badge/Java-111111?style=flat-square&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" height="36">
 
 # Apagador em Java e C
 
