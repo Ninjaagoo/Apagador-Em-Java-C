@@ -1,6 +1,7 @@
 # Apagador em Java e C
 
 **Desenvolvido por: Ninjaagoo**
+
 <img src="https://img.shields.io/badge/C-111111?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" alt="C" height="96"> <img src="https://img.shields.io/badge/Java-111111?style=flat-square&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" height="96">
 
 Projeto de estudos criado para praticar Java, C e a integração entre as duas linguagens. O menu é feito em Java e executa programas em C que realizam a limpeza no Windows.
